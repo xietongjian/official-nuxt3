@@ -52,5 +52,11 @@
   "scan_ks": "Scan with Kuaishou",
   "scan_dy": "Scan with Douyin",
   "scan_tm": "Scan with Taobao",
-  "scan_wx": "Scan with Wechat"
+  "scan_wx": "Scan with Wechat",
+
+
+  "menu": {
+    "home": "Home",
+    "aboutUs": "About Us"
+  }
 }

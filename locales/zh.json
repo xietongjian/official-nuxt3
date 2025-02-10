@@ -52,5 +52,13 @@
   "scan_ks": "打开快手扫一扫",
   "scan_dy": "打开抖音扫一扫",
   "scan_tm": "打开淘宝扫一扫",
-  "scan_wx": "打开微信扫一扫"
+  "scan_wx": "打开微信扫一扫",
+
+  "menu": {
+    "home": "首页",
+    "aboutUs": "关于我们",
+    "cases": "客户案例",
+    "examples": "演示",
+    "solution": "解决方案"
+  }
 }

@@ -1,5 +1,6 @@
 <script setup>
 import Navbar from "@/components/Navbar.vue";
+import MenuBar from "@/components/MenuBar.vue";
 const route = useRoute();
 const { t } = useI18n();
 const head = useLocaleHead({
@@ -43,7 +44,7 @@ useSeoMeta({
         </template>
       </Head>
       <Body>
-        <Navbar />
+        <MenuBar />
         <slot />
       </Body>
     </Html>
